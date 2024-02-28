@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Notes App</string>
+    <string name="add_note">Ajouter Note</string>
+    <string name="list_note">Liste Des Notes</string>
+    <string name="title">Titre</string>
+    <string name="content">Contenu</string>
 </resources>
